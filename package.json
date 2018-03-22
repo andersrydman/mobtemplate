@@ -17,6 +17,7 @@
     "dev": "nodemon --watch src --exec dotenv babel-node ./src/app.js"
   },
   "standard": {
+    "env": [ "jest" ],
     "globals": [
       "fetch",
       "Headers"

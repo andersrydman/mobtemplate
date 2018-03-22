@@ -1,6 +1,8 @@
 # Mob template
 Hello world project with:
 
+jest for test 
+
 dotenv for .env file
 
 nodemon for code reloading
